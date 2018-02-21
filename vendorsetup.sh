@@ -1,0 +1,1 @@
+add_lunch_combo aosmp_Z00L-userdebug
